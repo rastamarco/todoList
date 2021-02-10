@@ -1,2 +1,6 @@
-# testeEmix
-Teste da Empresa E-mix
+# TODO List
+Todo List
+
+# npm install
+
+#npm run serve
