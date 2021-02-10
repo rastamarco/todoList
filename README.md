@@ -1,6 +1,6 @@
 # TODO List
-Todo List
+TODO List utilizando Vuejs, Javascript, Typescript, Vuex e LocalStorage.
 
-# npm install
+#npm install
 
 #npm run serve
